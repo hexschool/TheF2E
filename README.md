@@ -1,5 +1,5 @@
 #  The F2E - 前端修練精神時光屋
-![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_banner.png?alt=media&token=595dfe92-aca0-459c-ace6-af6c58f47327)
+![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_banner.png?alt=media&token=83925cd6-b8ee-4f29-9100-d1ee08765f4f)
 
 你想變強嗎？
 你想獲得力量嗎？
