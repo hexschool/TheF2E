@@ -12,6 +12,8 @@
 1. 一週挑戰一個修練主題，總計九週，可挑選「前端工程師」、「前端設計師」的挑戰方向
 2. 每道修練主題的最低通過門檻是「至少要完成 CSS 網頁排版」
 3. 在期限內將成果上傳到雲端空間 (CODEPEN、Github、JSBIN) 後，再登記在 Google 表單上
+　
+![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_topic.png?alt=media&token=d08e9634-7ced-4351-8d13-2d00592cd97b)
 
 ## 在 The F2E 會獲得什麼資源？
 
@@ -29,6 +31,8 @@
 * **報名方式**：填寫此[報名表單](https://goo.gl/forms/x2N1iluIvRfu9AHr2)，加入 The F2E FB 社團。
 * **開賽規則**：每週一中午 12 點公布新題目，隔週週一中午 12 點前將作品上傳到 (CODEPEN、JSBIN、Github Pages)。
 * **發文登記**：開賽後的每週登錄作品請上傳至此[表單](https://goo.gl/forms/ufHCDuBmobghw4Ny1)，當週才算挑戰成功。
+
+![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_rule.png?alt=media&token=b344e794-6783-49cf-8777-ccccfb67113b)
 
 ## 技能樹選擇
 
