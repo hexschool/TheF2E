@@ -1,4 +1,5 @@
-#  The F2E - 前端修練精神時光屋 活動文案
+#  The F2E - 前端修練精神時光屋
+![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_banner.png?alt=media&token=595dfe92-aca0-459c-ace6-af6c58f47327)
 
 你想變強嗎？
 你想獲得力量嗎？
@@ -24,8 +25,8 @@
 
 請依照下列三步驟進行報名
 
-* **報名時間**：5/13(日)~6/10(日)，正式開賽時間為 6/11 (一)
-* **報名方式**：填寫此[報名表單](https://goo.gl/forms/x2N1iluIvRfu9AHr2)，並附上 line id 加入 The F2E 群組。
+* **報名時間**：5/13(日)~6/3(日)，正式開賽時間為 6/4 (一)
+* **報名方式**：填寫此[報名表單](https://goo.gl/forms/x2N1iluIvRfu9AHr2)，加入 The F2E FB 社團。
 * **開賽規則**：每週一中午 12 點公布新題目，隔週週一中午 12 點前將作品上傳到 (CODEPEN、JSBIN、Github Pages)。
 * **發文登記**：開賽後的每週登錄作品請上傳至此[表單](https://goo.gl/forms/ufHCDuBmobghw4Ny1)，當週才算挑戰成功。
 
@@ -65,8 +66,8 @@
     * JSON 資料、字串處理
     * 正規表達式 (Regular Expression)
 * **模組管理**：使用任務管理工具 (grunt、gulp)、模組打包工具 (webpack)
-* **ECMAScript：**ES 6、7 、8，並使用 Babel 兼容網頁瀏覽器。
-* **HTML5 API **：Localstorage、Geolocation、File API
+* **ECMAScript**：ES 6、7 、8，並使用 Babel 兼容網頁瀏覽器。
+* **HTML5 API**：Localstorage、Geolocation、File API
 * **介接第三方服務 API**： social login、weater、open data、自建 API
 * **導入 SPA 框架**： Vue、React、Angular
 * **工具框架**：lodash、Underscore
