@@ -28,7 +28,7 @@
 請依照下列三步驟進行報名
 
 * **報名時間**：5/13(日)~7/29(日)，正式開賽時間為 6/4 (一)
-* **報名方式**：填寫此[報名表單](https://goo.gl/forms/x2N1iluIvRfu9AHr2)，加入 The F2E FB 社團。
+* **報名方式**：填寫此[報名表單](https://goo.gl/forms/x2N1iluIvRfu9AHr2)，加入 [The F2E FB 社團](https://www.facebook.com/groups/173311386703334/)。
 * **開賽規則**：每週一中午 12 點公布新題目，隔週週一中午 12 點前將作品上傳到 (CODEPEN、JSBIN、Github Pages)。
 * **發文登記**：開賽後的每週登錄作品請上傳至此[表單](https://goo.gl/forms/ufHCDuBmobghw4Ny1)，當週才算挑戰成功。
   
