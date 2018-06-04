@@ -16,19 +16,3 @@
 
 ## CC0 設計稿
 * [六角學院](https://hexschool.github.io/THE_F2E_Design/todolist/)
-
-## 前端推薦開發功能
-
-1. 可新增、修改、刪除代辦事項
-2. 標示代辦優先重要級別
-3. 設計頁碼功能
-4. 顯示「全部」、「待處理」、「已處理」標籤功能
-5. 使用拖拉功能移動代辦排序
-6. 提醒功能使用 JavaScript calendar 處理日期問題
-7. 提醒功能實做 (HTML5 notification、mail)。
-8. 介接 storage、database 服務設計每筆代辦的評論與附加檔案
-9. 用 RESTful-API 跨服務開發，設計 web、chrome extension、desktop app
-10. 設計註冊登入功能，登入才可觀看到自己的 todolist
-
-
-
