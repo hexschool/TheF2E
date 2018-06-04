@@ -15,7 +15,7 @@
 7. 代辦事項過多時，需考量內容是否需要折疊
 
 ## 過關門檻
-1. 完成 CSS 網頁排版即可[投稿](https://docs.google.com/forms/d/e/1FAIpQLSdvlpUYTFUScuJBs-wu9AchBm_S56Unw68BZqEkIz8NyT667g/viewform)，即挑戰成功
+1. 完成 CSS 網頁排版，[投稿](https://docs.google.com/forms/d/e/1FAIpQLSdvlpUYTFUScuJBs-wu9AchBm_S56Unw68BZqEkIz8NyT667g/viewform)後便算挑戰成功
 
 ## CC0 設計稿
 * [六角學院](https://hexschool.github.io/THE_F2E_Design/todolist/)
