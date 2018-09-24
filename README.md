@@ -1,4 +1,5 @@
-#  The F2E - 前端修練精神時光屋，直接加入 [The F2E FB 社團](https://www.facebook.com/groups/173311386703334/)，取得商業授權網頁設計稿
+# The F2E - 前端修練精神時光屋
+## 加入 [The F2E FB 社團](https://www.facebook.com/groups/173311386703334/) 開始練功
 ![](https://firebasestorage.googleapis.com/v0/b/project-402e8.appspot.com/o/TheF2E_banner.png?alt=media&token=83925cd6-b8ee-4f29-9100-d1ee08765f4f)
 
 你想變強嗎？
